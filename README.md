@@ -1,9 +1,9 @@
-##Plutus
-#Named after Greek God of Wealth
-'''
+# Plutus
+
+```
 Written in Vue.js and Node.js as a personal project by Ryan Franks in final year of BSc at University of Canterbury, NZ
 5/03/20
-'''
+```
 ## Project setup
 ```
 npm install
