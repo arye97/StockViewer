@@ -1,4 +1,4 @@
-# Plutus
+# StockViewer
 
 ```
 Written in Vue.js and Node.js as a personal project by Ryan Franks 
