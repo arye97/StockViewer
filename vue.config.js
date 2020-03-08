@@ -1,3 +1,5 @@
 module.exports = {
-    publicPath: '/src/'
+    publicPath: process.env.NODE_ENV === 'production'
+        ? '/StockViewer/'
+        : '/'
 }
