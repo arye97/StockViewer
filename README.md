@@ -24,3 +24,8 @@ npm run build
 ```
 npm run lint
 ```
+
+### Deployed using Github-Pages
+```
+https://arye97.github.io/StockViewer/#/
+```
