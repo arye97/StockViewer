@@ -2,7 +2,8 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from './components/home/Home.vue'
 import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
-
+import dotenv from 'dotenv';
+dotenv.config();
 Vue.use(Router);
 Vue.use(BootstrapVue);
 Vue.use(IconsPlugin)
